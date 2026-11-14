@@ -1,0 +1,3 @@
+# Local verification and unit tests
+-r straw-thesis.txt
+pytest>=8.0
